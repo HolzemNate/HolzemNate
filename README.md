@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HolzemNate
+- 👀 I’m interested in computer and software engineering
+- 🌱 I’m currently learning at the University of Minnesota
